@@ -1,10 +1,10 @@
 ## <code>console.log('Hey, I'm Bzt!');</code>
 
 ### Current Knowledge 📔
-<b>HTML | CSS | Javascript | SASS<b>
+<b>HTML | CSS | Javascript | Node.js | SASS<b>
 
 ### Current Learning 📝
-<b> Advanced Javascript | Node.js <b>
+<b> Node.js | mySQL<b>
 
 ### Yearly Goals 🎯
 <b> Node.js | React.js | C# <b>
