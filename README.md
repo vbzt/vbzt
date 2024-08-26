@@ -4,7 +4,7 @@
 <b>HTML | CSS | Javascript | Node.js | SQL | MySQL | SASS<b>
 
 ### Current Learning 📝
-<b> Node.js | Sequelize<b>
+<b> React | APIs | Firebase<b>
 
 ### Yearly Goals 🎯
 <b> Node.js | React.js | C# <b>
