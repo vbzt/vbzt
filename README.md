@@ -1,5 +1,5 @@
-## console.log(info)
->> <code> Hey, I'm Vitor Buzato, a 16 years old programming student at FIAP School </code> 
+## <code>console.log(info) </code>
+<code> >> Hey, I'm Vitor Buzato, a 16 years old programming student at FIAP School </code> 
 
 ### 👨‍💻 My Knowledge
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000&style=flat-square) 
