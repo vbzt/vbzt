@@ -2,7 +2,7 @@
 >> Hey, I'm Vitor Buzato, a 16 years old programming student at FIAP School
 
 ### 👨‍💻 My Knowledge
-![Javascript](https://shields.io/badge/JavaScript-111111?style=for-the-badge&logo=JavaScript&logoColor=000&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/javascript-111111?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React.js](https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react&logoColor=42C2F5) 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=32A852) 
 <br> 
@@ -12,8 +12,6 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-111111?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=03A5FC) <br> 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=0066FF) 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=03d3fc)
 
 ### 📈 My stats
 
