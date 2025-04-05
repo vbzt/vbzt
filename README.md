@@ -12,7 +12,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-111111?style=for-the-badge&logo=sequelize&logoColor=0066ff) 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FFF) 
 ![MongoDb](https://img.shields.io/badge/-MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
-![PrismaORM](https://img.shields.io/badge/PrismaORM-111111?style=for-the-badge&logo=Prisma)
+![PrismaORM](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=Prisma&logoColor=03a1fc)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=03A5FC) <br> 
 
 ### 📈 My stats
