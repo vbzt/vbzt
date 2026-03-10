@@ -20,20 +20,6 @@
 [![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)](https://docs.docker.com/)
 [![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/doc)
 
-**Projects:**
-
-> **[Nomuz](https://github.com/vbzt/Nomuz)** - secure legal platform with E2E encryption  
-> `NestJS` `Next.js` `PostgreSQL` `WebSockets`
-
-> **[Crumbly](https://github.com/vbzt/Crumbly)** - bakery management API  
-> `NestJS` `PostgreSQL`
-
-> **[Any2Any](https://github.com/vbzt/Any2Any)** - client-side multimedia converter  
-> `Vite` `FFMPEG`
-
-> **[EcoLeaf](https://github.com/vbzt/EcoLeaf)** - AI-powered plant care platform  
-> `Node.js` `React` `Gemini API`
-
 **Contact:**
 
 📧 [vitorcastrobuzato@gmail.com](mailto:vitorcastrobuzato@gmail.com)  
