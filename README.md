@@ -1,6 +1,6 @@
 # Vitor Buzato
 
-> *Full-stack developer focused on secure and clean backends, Software Engineering student @FIAP, NestJS enthusiast* 🐱‍👤
+> *18yo Full-stack developer focused on secure and clean backends, Software Engineering student @FIAP, NestJS enthusiast* 🐱‍👤
 
 **Tech Stack:**
 
